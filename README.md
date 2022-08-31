@@ -1,2 +1,2 @@
 # marahuyo-frontend
-Frontend website excercise
+Frontend website exercise
